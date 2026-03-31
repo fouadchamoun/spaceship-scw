@@ -1,3 +1,10 @@
+# 1.0.0 (2026-03-31)
+
+
+### Features
+
+* init scw section ([8d4ce95](https://github.com/fouadchamoun/spaceship-scw/commit/8d4ce95fcdcf22baf673bd43dd5f6fb0b6f049d9))
+
 ## [1.0.3](https://github.com/spaceship-prompt/spaceship-section/compare/v1.0.2...v1.0.3) (2022-09-21)
 
 
