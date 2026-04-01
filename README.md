@@ -27,6 +27,10 @@
 
 Current Scaleway CLI profile, through [scaleway-cli](https://github.com/scaleway/scaleway-cli) (`scw`).
 
+| Example 1                                   | Example 2                                   |
+| ------------------------------------------- | ------------------------------------------- |
+| ![screenshot](assets/SCR-20260401-iifi.png) | ![screenshot](assets/SCR-20260401-iiij.png) |
+
 ## Installing
 
 You need to source this plugin somewhere in your dotfiles. Here's how to do it with some popular tools:
